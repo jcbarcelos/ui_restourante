@@ -86,4 +86,4 @@ List<Produto> produtos = [
 ];
 
 String descMokc = "Um exelente hamburgur";
-String imagePath = 'assets/images/hamburguer.jpg';
+String imagePath = 'assets/images/hamburguer.webp';
